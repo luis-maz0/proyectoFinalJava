@@ -22,4 +22,7 @@ public class Persona {
     public void setEdad(int edad) {
         this.edad = edad;
     }
+    public void saludar(){
+        System.out.println("HOLA MUNDO!");
+    }
 }
